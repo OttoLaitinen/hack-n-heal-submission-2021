@@ -1,49 +1,11 @@
-# Remotion video
 
-<p align="center">
-  <a href="https://github.com/JonnyBurger/remotion-logo">
-    <img src="https://github.com/JonnyBurger/remotion-logo/raw/main/withtitle/element-0.png">
-  </a>
-</p>
+# Vacci.
 
-Welcome to your Remotion project!
+#### Abstract
+We have created a mobile application using React-Native and Node.js and a demo video using a library called React-Remotion. Some style components of the mobile app were created using our closed-source UI library from other projects, thus we were not able to publish the application code. However, the demo code is given.
 
-## Commands
+#### Problem
 
-**Start Preview**
+#### Solution
 
-```console
-npm start
-```
-
-**Render video**
-
-```console
-npm run build
-```
-
-**Server render demo**
-
-```console
-npm run server
-```
-
-See [docs for server-side rendering](https://www.remotion.dev/docs/ssr) here.
-
-**Upgrade Remotion**
-
-```console
-npm run upgrade
-```
-
-## Docs
-
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/JonnyBurger/remotion/issues/new).
-
-## License
-
-Notice that a company license is needed. Read [the terms here](https://github.com/JonnyBurger/remotion/blob/main/LICENSE.md).
+#### Conclusion
